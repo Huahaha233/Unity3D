@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 391ae3d6c106af1449c36c9f025f5039
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arch24_044_05
+    100002: arch24_044_06
+    100004: arch24_044_07
+    100006: arch24_044_08
+    100008: arch24_044_09
+    100010: Arch41_040_obj_1
+    100012: Arch41_040_obj_2
+    100014: Arch41_040_obj_3
+    100016: Arch41_040_obj_4
+    100018: Arch41_040_obj_6
+    100020: Arch41_040_obj_7
+    100022: Arch41_040_obj_8
+    100024: Arch41_040_obj_9
+    100026: //RootNode
+    100028: Plane01
+    100030: Plane18
+    100032: Plane19
+    100034: Plane20
+    100036: Plane21
+    100038: Plane22
+    100040: Plane23
+    100042: Plane24
+    100044: Plane25
+    100046: Plane26
+    100048: Rectangle19
+    100050: Rectangle19 1
+    100052: Rectangle20
+    100054: Rectangle20 1
+    100056: Rectangle21
+    100058: Rectangle26
+    100060: Rectangle27
+    100062: Rectangle28
+    100064: Rectangle29
+    100066: Rectangle30
+    100068: Rectangle31
+    100070: Rectangle32
+    100072: Rectangle33
+    100074: Rectangle34
+    100076: Rectangle35
+    100078: Rectangle39
+    100080: Rectangle40
+    100082: Rectangle41
+    100084: Rectangle42
+    100086: Rectangle43
+    400000: arch24_044_05
+    400002: arch24_044_06
+    400004: arch24_044_07
+    400006: arch24_044_08
+    400008: arch24_044_09
+    400010: Arch41_040_obj_1
+    400012: Arch41_040_obj_2
+    400014: Arch41_040_obj_3
+    400016: Arch41_040_obj_4
+    400018: Arch41_040_obj_6
+    400020: Arch41_040_obj_7
+    400022: Arch41_040_obj_8
+    400024: Arch41_040_obj_9
+    400026: //RootNode
+    400028: Plane01
+    400030: Plane18
+    400032: Plane19
+    400034: Plane20
+    400036: Plane21
+    400038: Plane22
+    400040: Plane23
+    400042: Plane24
+    400044: Plane25
+    400046: Plane26
+    400048: Rectangle19
+    400050: Rectangle19 1
+    400052: Rectangle20
+    400054: Rectangle20 1
+    400056: Rectangle21
+    400058: Rectangle26
+    400060: Rectangle27
+    400062: Rectangle28
+    400064: Rectangle29
+    400066: Rectangle30
+    400068: Rectangle31
+    400070: Rectangle32
+    400072: Rectangle33
+    400074: Rectangle34
+    400076: Rectangle35
+    400078: Rectangle39
+    400080: Rectangle40
+    400082: Rectangle41
+    400084: Rectangle42
+    400086: Rectangle43
+    2100000: 'Material #2'
+    2100002: 'Material #3'
+    2100004: 'Material #4'
+    2100006: 'Material #5'
+    2100008: 'Material #6'
+    2100010: 'Material #7'
+    2100012: 'Material #8'
+    2100014: 'Material #9'
+    2100016: 'Material #10'
+    2300000: arch24_044_05
+    2300002: arch24_044_06
+    2300004: arch24_044_07
+    2300006: arch24_044_08
+    2300008: arch24_044_09
+    2300010: Arch41_040_obj_1
+    2300012: Arch41_040_obj_2
+    2300014: Arch41_040_obj_3
+    2300016: Arch41_040_obj_4
+    2300018: Arch41_040_obj_6
+    2300020: Arch41_040_obj_7
+    2300022: Arch41_040_obj_8
+    2300024: Arch41_040_obj_9
+    2300026: Plane01
+    2300028: Plane18
+    2300030: Plane19
+    2300032: Plane20
+    2300034: Plane21
+    2300036: Plane22
+    2300038: Plane23
+    2300040: Plane24
+    2300042: Plane25
+    2300044: Plane26
+    2300046: Rectangle19
+    2300048: Rectangle19 1
+    2300050: Rectangle20
+    2300052: Rectangle20 1
+    2300054: Rectangle21
+    2300056: Rectangle26
+    2300058: Rectangle27
+    2300060: Rectangle28
+    2300062: Rectangle29
+    2300064: Rectangle30
+    2300066: Rectangle31
+    2300068: Rectangle32
+    2300070: Rectangle33
+    2300072: Rectangle34
+    2300074: Rectangle35
+    2300076: Rectangle39
+    2300078: Rectangle40
+    2300080: Rectangle41
+    2300082: Rectangle42
+    2300084: Rectangle43
+    3300000: arch24_044_05
+    3300002: arch24_044_06
+    3300004: arch24_044_07
+    3300006: arch24_044_08
+    3300008: arch24_044_09
+    3300010: Arch41_040_obj_1
+    3300012: Arch41_040_obj_2
+    3300014: Arch41_040_obj_3
+    3300016: Arch41_040_obj_4
+    3300018: Arch41_040_obj_6
+    3300020: Arch41_040_obj_7
+    3300022: Arch41_040_obj_8
+    3300024: Arch41_040_obj_9
+    3300026: Plane01
+    3300028: Plane18
+    3300030: Plane19
+    3300032: Plane20
+    3300034: Plane21
+    3300036: Plane22
+    3300038: Plane23
+    3300040: Plane24
+    3300042: Plane25
+    3300044: Plane26
+    3300046: Rectangle19
+    3300048: Rectangle19 1
+    3300050: Rectangle20
+    3300052: Rectangle20 1
+    3300054: Rectangle21
+    3300056: Rectangle26
+    3300058: Rectangle27
+    3300060: Rectangle28
+    3300062: Rectangle29
+    3300064: Rectangle30
+    3300066: Rectangle31
+    3300068: Rectangle32
+    3300070: Rectangle33
+    3300072: Rectangle34
+    3300074: Rectangle35
+    3300076: Rectangle39
+    3300078: Rectangle40
+    3300080: Rectangle41
+    3300082: Rectangle42
+    3300084: Rectangle43
+    4300000: Plane01
+    4300002: Plane18
+    4300004: Rectangle19
+    4300006: Rectangle20
+    4300008: Rectangle21
+    4300010: Rectangle26
+    4300012: Rectangle27
+    4300014: Rectangle28
+    4300016: Rectangle30
+    4300018: Rectangle31
+    4300020: Rectangle32
+    4300022: Rectangle33
+    4300024: Rectangle34
+    4300026: Rectangle35
+    4300028: Rectangle39
+    4300030: Rectangle40
+    4300032: Rectangle41
+    4300034: Rectangle42
+    4300036: Rectangle43
+    4300038: Rectangle19
+    4300040: Rectangle20
+    4300042: Plane19
+    4300044: Plane20
+    4300046: Plane21
+    4300048: Plane22
+    4300050: Plane23
+    4300052: Plane24
+    4300054: Plane25
+    4300056: Plane26
+    4300058: Rectangle29
+    4300060: arch24_044_06
+    4300062: arch24_044_07
+    4300064: arch24_044_05
+    4300066: arch24_044_09
+    4300068: arch24_044_08
+    4300070: Arch41_040_obj_1
+    4300072: Arch41_040_obj_6
+    4300074: Arch41_040_obj_3
+    4300076: Arch41_040_obj_7
+    4300078: Arch41_040_obj_4
+    4300080: Arch41_040_obj_2
+    4300082: Arch41_040_obj_8
+    4300084: Arch41_040_obj_9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

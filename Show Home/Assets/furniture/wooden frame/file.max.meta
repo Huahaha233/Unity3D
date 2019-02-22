@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: e21f932f38726d04a9c5d2a5200e6b43
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archmodels_64_003_01
+    100002: Archmodels_64_003_02
+    100004: Archmodels_64_003_03
+    100006: Archmodels_64_003_04
+    100008: Archmodels_64_003_05
+    100010: Archmodels_64_003_06
+    100012: Archmodels_64_006_00
+    100014: Archmodels_64_006_01
+    100016: Archmodels_64_014
+    100018: Archmodels_64_016
+    100020: Archmodels_64_017
+    100022: Archmodels_64_020_00
+    100024: Archmodels_64_020_01
+    100026: Archmodels_64_026
+    100028: Archmodels_64_027
+    100030: Archmodels_64_029
+    100032: Archmodels_64_033
+    100034: Archmodels_64_038
+    100036: Archmodels_64_039
+    100038: Archmodels_64_41
+    100040: Box01
+    100042: Box04
+    100044: Box06
+    100046: Box12
+    100048: Box19
+    100050: Box20
+    100052: ChamferBox01
+    100054: Circle02
+    100056: Circle03
+    100058: Cylinder01
+    100060: Cylinder10
+    100062: Cylinder15
+    100064: Cylinder16
+    100066: Cylinder17
+    100068: Cylinder18
+    100070: Cylinder19
+    100072: Cylinder38
+    100074: //RootNode
+    100076: Sphere01
+    100078: Sphere07
+    100080: Sphere08
+    100082: Sphere09
+    100084: "\u56FE\u5F6201"
+    100086: "\u56FE\u5F6202"
+    100088: "\u5BF9\u8C6101"
+    400000: Archmodels_64_003_01
+    400002: Archmodels_64_003_02
+    400004: Archmodels_64_003_03
+    400006: Archmodels_64_003_04
+    400008: Archmodels_64_003_05
+    400010: Archmodels_64_003_06
+    400012: Archmodels_64_006_00
+    400014: Archmodels_64_006_01
+    400016: Archmodels_64_014
+    400018: Archmodels_64_016
+    400020: Archmodels_64_017
+    400022: Archmodels_64_020_00
+    400024: Archmodels_64_020_01
+    400026: Archmodels_64_026
+    400028: Archmodels_64_027
+    400030: Archmodels_64_029
+    400032: Archmodels_64_033
+    400034: Archmodels_64_038
+    400036: Archmodels_64_039
+    400038: Archmodels_64_41
+    400040: Box01
+    400042: Box04
+    400044: Box06
+    400046: Box12
+    400048: Box19
+    400050: Box20
+    400052: ChamferBox01
+    400054: Circle02
+    400056: Circle03
+    400058: Cylinder01
+    400060: Cylinder10
+    400062: Cylinder15
+    400064: Cylinder16
+    400066: Cylinder17
+    400068: Cylinder18
+    400070: Cylinder19
+    400072: Cylinder38
+    400074: //RootNode
+    400076: Sphere01
+    400078: Sphere07
+    400080: Sphere08
+    400082: Sphere09
+    400084: "\u56FE\u5F6201"
+    400086: "\u56FE\u5F6202"
+    400088: "\u5BF9\u8C6101"
+    2100000: 'Material #2097630951'
+    2100002: 'Material #2097630950'
+    2100004: 'Material #2097630958'
+    2100006: 'Material #2097630959'
+    2100008: 'Material #2097630960'
+    2100010: No Name
+    2100012: 'Material #2097630963'
+    2100014: 'Material #2097630946'
+    2100016: 'Material #2097630956'
+    2100018: 'Material #2097630972'
+    2100020: 'Material #2097630973'
+    2100022: 'Material #2097630974'
+    2100024: 'Material #2097630975'
+    2100026: 'Material #2097630976'
+    2100028: 'Material #2097630977'
+    2100030: 'Material #2097630957'
+    2100032: 'Material #2097630966'
+    2100034: 'Material #2097630967'
+    2100036: 'Material #2097630969'
+    2100038: 'Material #2097630970'
+    2100040: 'Material #2097630971'
+    2100042: Archmodels_64_003_02
+    2100044: 'Material #2097630968'
+    2100046: 'Material #2097630964'
+    2100048: 'Material #2097630965'
+    2300000: Archmodels_64_003_01
+    2300002: Archmodels_64_003_02
+    2300004: Archmodels_64_003_03
+    2300006: Archmodels_64_003_04
+    2300008: Archmodels_64_003_05
+    2300010: Archmodels_64_003_06
+    2300012: Archmodels_64_006_00
+    2300014: Archmodels_64_006_01
+    2300016: Archmodels_64_014
+    2300018: Archmodels_64_016
+    2300020: Archmodels_64_017
+    2300022: Archmodels_64_020_00
+    2300024: Archmodels_64_020_01
+    2300026: Archmodels_64_026
+    2300028: Archmodels_64_027
+    2300030: Archmodels_64_029
+    2300032: Archmodels_64_033
+    2300034: Archmodels_64_038
+    2300036: Archmodels_64_039
+    2300038: Archmodels_64_41
+    2300040: Box01
+    2300042: Box04
+    2300044: Box06
+    2300046: Box12
+    2300048: Box19
+    2300050: Box20
+    2300052: ChamferBox01
+    2300054: Circle02
+    2300056: Circle03
+    2300058: Cylinder01
+    2300060: Cylinder10
+    2300062: Cylinder15
+    2300064: Cylinder16
+    2300066: Cylinder17
+    2300068: Cylinder18
+    2300070: Cylinder19
+    2300072: Cylinder38
+    2300074: Sphere01
+    2300076: Sphere07
+    2300078: Sphere08
+    2300080: Sphere09
+    2300082: "\u56FE\u5F6201"
+    2300084: "\u56FE\u5F6202"
+    2300086: "\u5BF9\u8C6101"
+    3300000: Archmodels_64_003_01
+    3300002: Archmodels_64_003_02
+    3300004: Archmodels_64_003_03
+    3300006: Archmodels_64_003_04
+    3300008: Archmodels_64_003_05
+    3300010: Archmodels_64_003_06
+    3300012: Archmodels_64_006_00
+    3300014: Archmodels_64_006_01
+    3300016: Archmodels_64_014
+    3300018: Archmodels_64_016
+    3300020: Archmodels_64_017
+    3300022: Archmodels_64_020_00
+    3300024: Archmodels_64_020_01
+    3300026: Archmodels_64_026
+    3300028: Archmodels_64_027
+    3300030: Archmodels_64_029
+    3300032: Archmodels_64_033
+    3300034: Archmodels_64_038
+    3300036: Archmodels_64_039
+    3300038: Archmodels_64_41
+    3300040: Box01
+    3300042: Box04
+    3300044: Box06
+    3300046: Box12
+    3300048: Box19
+    3300050: Box20
+    3300052: ChamferBox01
+    3300054: Circle02
+    3300056: Circle03
+    3300058: Cylinder01
+    3300060: Cylinder10
+    3300062: Cylinder15
+    3300064: Cylinder16
+    3300066: Cylinder17
+    3300068: Cylinder18
+    3300070: Cylinder19
+    3300072: Cylinder38
+    3300074: Sphere01
+    3300076: Sphere07
+    3300078: Sphere08
+    3300080: Sphere09
+    3300082: "\u56FE\u5F6201"
+    3300084: "\u56FE\u5F6202"
+    3300086: "\u5BF9\u8C6101"
+    4300000: Sphere07
+    4300002: Cylinder15
+    4300004: Cylinder16
+    4300006: Sphere01
+    4300008: Cylinder01
+    4300010: Sphere09
+    4300012: Cylinder18
+    4300014: Cylinder19
+    4300016: Sphere08
+    4300018: Cylinder17
+    4300020: ChamferBox01
+    4300022: Box01
+    4300024: "\u5BF9\u8C6101"
+    4300026: Box06
+    4300028: Circle02
+    4300030: "\u56FE\u5F6201"
+    4300032: Circle03
+    4300034: "\u56FE\u5F6202"
+    4300036: Archmodels_64_017
+    4300038: Archmodels_64_006_01
+    4300040: Archmodels_64_006_00
+    4300042: Archmodels_64_027
+    4300044: Archmodels_64_033
+    4300046: Archmodels_64_41
+    4300048: Archmodels_64_026
+    4300050: Archmodels_64_016
+    4300052: Archmodels_64_038
+    4300054: Archmodels_64_039
+    4300056: Archmodels_64_014
+    4300058: Box12
+    4300060: Box04
+    4300062: Cylinder10
+    4300064: Archmodels_64_029
+    4300066: Archmodels_64_003_04
+    4300068: Archmodels_64_003_02
+    4300070: Archmodels_64_003_01
+    4300072: Archmodels_64_003_06
+    4300074: Archmodels_64_003_05
+    4300076: Archmodels_64_003_03
+    4300078: Archmodels_64_020_01
+    4300080: Archmodels_64_020_00
+    4300082: Cylinder38
+    4300084: Box19
+    4300086: Box20
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

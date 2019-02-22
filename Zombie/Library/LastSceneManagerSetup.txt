@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EasyTouchBundle/EasyTouchControls/Examples/Version 2.X_New Features/ThirdPersonDungeon+Jump.unity
+  isLoaded: 1
+  isActive: 1

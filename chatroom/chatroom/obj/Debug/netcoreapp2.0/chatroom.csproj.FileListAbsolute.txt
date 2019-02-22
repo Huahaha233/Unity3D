@@ -1,0 +1,11 @@
+D:\C#project\chatroom\chatroom\bin\Debug\netcoreapp2.0\chatroom.deps.json
+D:\C#project\chatroom\chatroom\bin\Debug\netcoreapp2.0\chatroom.runtimeconfig.json
+D:\C#project\chatroom\chatroom\bin\Debug\netcoreapp2.0\chatroom.runtimeconfig.dev.json
+D:\C#project\chatroom\chatroom\bin\Debug\netcoreapp2.0\chatroom.dll
+D:\C#project\chatroom\chatroom\bin\Debug\netcoreapp2.0\chatroom.pdb
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.csproj.CoreCompileInputs.cache
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.AssemblyInfoInputs.cache
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.AssemblyInfo.cs
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.dll
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.pdb
+D:\C#project\chatroom\chatroom\obj\Debug\netcoreapp2.0\chatroom.csprojAssemblyReference.cache
